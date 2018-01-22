@@ -9,3 +9,6 @@ insert about me here
 ## Blog Post
 
 First sentence of blog post here... [Continue reading](blog)
+
+Pop Quiz; What's my favorite Star Wars Movie?
+...[Answer](Quiz)

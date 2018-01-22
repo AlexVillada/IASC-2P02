@@ -8,4 +8,4 @@ insert about me here
 
 ## Blog Post
 
-insert first sentence of blog post here
+First sentence of blog post here... [Continue reading](blog)

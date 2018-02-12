@@ -5,7 +5,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nisl justo, facili
 
 ![](images/VoyantTool.png)
 
-<iframe style='width: 718px; height: 256px;' src='//voyant-tools.org/tool/Bubblelines/?query=novel&query=humanities&query=digital&query=time&query=data&docId=71fc05e6d03f8bb6e4be41c05efac179&docId=e0b9b878efb1039c3e5abd51c0577b93&docId=122b0ff9ebf61a7242be2cdaf6bbf772&docId=92b68fbb0cb1b2e26c4fc62383df42f8&corpus=0fc06fc3a7de45edb86fbda1551c8e3c'></iframe>
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 746px; height: 389px;' src='//voyant-tools.org/tool/Bubblelines/?query=novel&query=humanities&query=digital&query=time&query=data&docId=71fc05e6d03f8bb6e4be41c05efac179&docId=e0b9b878efb1039c3e5abd51c0577b93&docId=122b0ff9ebf61a7242be2cdaf6bbf772&docId=92b68fbb0cb1b2e26c4fc62383df42f8&corpus=0fc06fc3a7de45edb86fbda1551c8e3c'></iframe>
 
 
 Mauris blandit consequat ornare. Nunc mattis nisi sed ultricies maximus. Quisque at lacus sagittis turpis consequat pulvinar. Nullam ac felis vel libero faucibus vehicula eget nec nunc. Curabitur id hendrerit ipsum. Curabitur dapibus turpis nec justo suscipit, ac malesuada nunc tempor. Proin quis lacus non augue lobortis porta. In volutpat sagittis justo. Sed dapibus imperdiet ullamcorper. Cras eget risus convallis, auctor leo et, iaculis eros. Pellentesque sollicitudin urna diam, eu pellentesque leo auctor sit amet. Sed maximus bibendum sodales. Curabitur vel erat venenatis, faucibus sem vel, elementum purus. Etiam sit amet rhoncus ligula, vel tristique purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non sem lobortis, tempus nulla vel, lobortis justo. Etiam et ipsum velit. Nunc mollis augue vel gravida venenatis. Phasellus quis ultricies tellus, et pharetra turpis. Donec elementum augue at risus fermentum, vitae aliquam tortor pellentesque. Phasellus lacinia iaculis tristique. Nunc blandit nisi in maximus molestie. Suspendisse luctus tellus vitae turpis pharetra, sit amet venenatis leo tristique. Ut dapibus pulvinar magna, non cursus nunc placerat sed. Nullam et consequat dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin pretium quam eu sapien volutpat, eget porttitor erat tincidunt. Donec nec viverra quam. Aenean interdum ipsum et libero ornare tempor. Etiam mattis dignissim lorem, at lacinia enim accumsan at. Cras vitae dui et libero auctor volutpat. Sed dapibus magna id magna fringilla tristique. 

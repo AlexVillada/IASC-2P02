@@ -3,6 +3,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nisl justo, facilisis vitae facilisis consectetur, tempus vel arcu. Fusce id quam sollicitudin, fringilla augue et, imperdiet lectus. Nullam ut purus nisi. Etiam vel elit vehicula, vestibulum tortor vitae, imperdiet leo. Proin suscipit nunc vel tortor laoreet, non tempor nunc commodo. Pellentesque pulvinar fringilla ipsum. Maecenas id libero et libero mattis dapibus. Phasellus vel nunc consectetur, imperdiet ante eget, accumsan mi. Cras scelerisque augue in turpis placerat tempus. Suspendisse a diam nec neque fringilla varius ac ut eros. Suspendisse id nisl ante. In quis faucibus nulla, eu vehicula sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dignissim cursus nibh sed iaculis. Morbi eleifend sapien sed tortor condimentum, mollis tincidunt lectus dictum. Morbi vestibulum ut odio consectetur viverra. Sed convallis efficitur purus nec bibendum. 
 
 
+![](images/VoyantTool.png)
+
 <iframe style='width: 718px; height: 256px;' src='//voyant-tools.org/tool/Bubblelines/?query=novel&query=humanities&query=digital&query=time&query=data&docId=71fc05e6d03f8bb6e4be41c05efac179&docId=e0b9b878efb1039c3e5abd51c0577b93&docId=122b0ff9ebf61a7242be2cdaf6bbf772&docId=92b68fbb0cb1b2e26c4fc62383df42f8&corpus=0fc06fc3a7de45edb86fbda1551c8e3c'></iframe>
 
 

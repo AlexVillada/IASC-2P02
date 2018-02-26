@@ -3,6 +3,12 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nisl justo, facilisis vitae facilisis consectetur, tempus vel arcu. Fusce id quam sollicitudin, fringilla augue et, imperdiet lectus. Nullam ut purus nisi. Etiam vel elit vehicula, vestibulum tortor vitae, imperdiet leo. Proin suscipit nunc vel tortor laoreet, non tempor nunc commodo. Pellentesque pulvinar fringilla ipsum. Maecenas id libero et libero mattis dapibus. Phasellus vel nunc consectetur, imperdiet ante eget, accumsan mi. Cras scelerisque augue in turpis placerat tempus. Suspendisse a diam nec neque fringilla varius ac ut eros. Suspendisse id nisl ante. In quis faucibus nulla, eu vehicula sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dignissim cursus nibh sed iaculis. Morbi eleifend sapien sed tortor condimentum, mollis tincidunt lectus dictum. Morbi vestibulum ut odio consectetur viverra. Sed convallis efficitur purus nec bibendum. 
 
 
+
+[3d viz](d3/index.html)
+
+<iframe style="width: 1024 px; height:768 px;" src="http://alexvillada.github.io/IASC-2P02/d3/index.html"></iframe?
+
+
 ![](images/VoyantTool.png)
 
 <!--	Exported from Voyant Tools (voyant-tools.org).

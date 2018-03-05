@@ -8,7 +8,7 @@ insert about me here
 
 ## Blog Post
 
-First sentence of blog post here... [Continue reading](IASC-2P02/Blog Post/BlogPost.md)
+First sentence of blog post here... [Continue reading](blog)
 
 Pop Quiz; What's my favorite Star Wars Movie?
 ...[Answer](images/star-wars-episode-3-revenge-of-the-sith-poster-4[1].jpg)

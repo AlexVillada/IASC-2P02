@@ -32,6 +32,7 @@ it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 681px; height: 216px;' src='//voyant-tools.org/tool/Bubblelines/?query=graphical&query=information&query=time&query=data&query=humanistic&docId=645cda1e5bfe41524b98cac245167417&corpus=250585b9765d21c759726ffea8eedf7f'></iframe>
 
+
 When looking at both visualizations, we can see a clear correlation between the terms; Graphical, Information and Interpretation. Drucker’s article is all about whether information gathered should be considered capta and not data, as we’ve touched on before. One great example from Drucker’s article is her representation of Stress level and Perceived time in Figure 10. This particular sense goes great with students and exam times. The values of the visualizations stay the same. As time moves forward toward the exam date, the students’ anxiety and nervousness increases. Of course there are many exceptions and conditions, such as if the student has studied, went to class, and if they are confident with the material. The different conditions contribute to this, as this representation is just an interpretation of the information collected, by the certain demographic. However, just like Drucker says, this is only an interpretation of the demographic, and not an accurate representation of all students.
 
 If I were to connect Drucker’s piece to another author that we’ve touched base on in class, I’d want to talk about McGann and Samuel’s Deformance and Interpretation. In the article, they talk about poems and literature, and the different ways of deconstructing their meaning and intent. If we take a look at this visualization that compares both texts, we see a very interesting correlation, it reminds me of a spider web. 
@@ -52,3 +53,18 @@ There is a very steady correlation, mainly with interpretation, but it serves a 
 
 
 In conclusion, I agree with Drucker’s main arguments and points. Drucker makes it clear that it’s important to give off the right information, so they information is not misused and doesn’t misinform. Capta is how we should be analyzing most information that has been extracted, as long as they don’t include factual evidence and proof that it is a reliable source of information. As far as we are concerned, most surveys and graphs demonstrating statistics have been extracted/tested with a certain demographic, however like I’ve said earlier, there are exceptions to everything, and that kind of data should give a sense of direction, rather than factual belief.
+
+
+
+## Citations
+
+(n.d.). Retrieved March 04, 2018, from https://blogs.ischool.utexas.edu/f2011dh/2011/10/31/capta-and-data-visualization-the-humanistic-method-and-representing-knowledge/
+
+
+Chippindale, C. (2017, January 20). Capta and Data: On the True Nature of Archaeological Information | American Antiquity. Retrieved March 05, 2018, from https://www.cambridge.org/core/journals/american-antiquity/article/capta-and-data-on-the-true-nature-of-archaeological-information/9D897413CE54489A580F89255915A28A
+
+
+Humanities Approaches to Graphical Display. (n.d.). Retrieved March 05, 2018, from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html#p20
+
+
+McGann, J., & Samuels, L. (n.d.). Deformance and Interpretation. Retrieved March 05, 2018, from http://www2.iath.virginia.edu/jjm2f/old/deform.html

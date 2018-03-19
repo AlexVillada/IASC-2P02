@@ -12,7 +12,7 @@ Throughout the years, the field of humanities in post education has been evergro
 
 
 ## Solo Presentation
-[Click Here]()
+[Click Here](https://alexvillada.github.io/IASC-2P02/reveal/index.html)
 
 
 

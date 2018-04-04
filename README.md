@@ -6,11 +6,13 @@ I am a second year tudent in the IASC program at Brock University. My research a
 
 ![](images/StarDestroyer.png)
 
-## Featured Project: (Title of project here)
+## Featured Project: (Wax Cylinder Phonograph)
 
 ![](images/featured.jpg)
 
 Here are 250 words introducing this project.
+
+
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes which you can see [here].
 (https://github.com/AlexVillada/IASC-2P02/commit/81be613a220ef4ced893da7ef29a54f238a04cd8#diff-890f068779e43beb317787310daafa5c)

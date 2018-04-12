@@ -22,19 +22,18 @@ Overall these changes show the process of what I felt would work best in this pr
 
 ## Collaborative Pesentation
 
-Here is my 100 word proj. description
+This collaborative presentation was a task that revolved me and my peers to work together, to give a collaborative presentation on a tool that would benefit an individual who does research in the Digital Humanities field. The tool that me and my group decided to take a look at, was Zotero. We were required to talk about Zotero in different ways, such as giving notable information about the tool such as what it is, who created it, as well as when and where they created it. Other information includes how it is funded, it’s features and main goals. We were also required to talk about our research findings, this includes giving an thesis and an argument on what this tool is used for and how it benefits said use, and how we gathered the information, presented it, and what we felt was needed to be mentioned and what wasn’t. Lastly, we had a section on theoretical discussion, which was about us talking about the theoretical meaning and intention behind it. Things such as how it relates to DH, and how we used the tool GitHub to compile our information together.
 
-Here is my 250 word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here])
+As a group, we had a lot of ideas flowing. Each of us took different roles, and I was in change of theoretical discussion, with my peer, Brian. My peer Evan was in charge of the basic initial information, and our other member Dylan, was in charge of the research findings. Brian and I were focusing on talking about other DH researchers and we were talking about how these tools would benefit said researchers. Overall, as a group, we had a lot of ideas going back and forth. It’s great to work as a group in this field especially, as there are a lot of analytical discussions I can find myself into regarding technology. In this group collaboration specifically, I learned things from my peers Dylan, Evan and Brian. Everyone has something to offer in the group and I feel it was compiled nicely into one collaborative piece. With that being said, since I’ve been engaged in this environment with a group, I’ve been able to enforce my research skills, and find information more effectively, as shown on the solo research presentation. 
 
-Link
+Here are 3 piece of commits that I have been apart of. *Brian submit the commits, I worked on material and sent it to him*
 
-I also approach collaboration in A ways which is reflected in b work (available [here])
+(available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/ec1b9cb5f74ec8272749826f964ae5adfe146bb1#diff-263c9d16322b91363cd286714e70dc9f)).
 
-link
+(available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/15f6d5539423d1b91035ae42ac1de7812b8cff58#diff-263c9d16322b91363cd286714e70dc9f)).
 
-I also contributed x assets to my team, seen below.
+![](images/Collaboration.png)
 
-![](images/collaboration.jpg)
 
 
 ## Acedemic Blog

@@ -8,7 +8,7 @@ My name is Alex Villada and I am a second year student in the IASC program at Br
 
 ## Featured Project: (Wax Cylinder Phonograph)
 
-![](images/featuredpic.png)
+![](images/FeaturedPic.png)
 
 Here are 250 words introducing this project.
 

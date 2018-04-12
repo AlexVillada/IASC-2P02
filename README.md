@@ -13,7 +13,7 @@ Here are 250 words introducing this work.
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/cb547a874c6bcc10496c04793a7864ae7ae558c9#diff-abdf882c25e08d9ba219fe33f17591fe). I also made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/45458c7096da2aac039da778cb89204bdebf93d8#diff-abdf882c25e08d9ba219fe33f17591fe). I also made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/d772ec3be86caadb949c53333ed35fc608a19fd5#diff-abdf882c25e08d9ba219fe33f17591fe). Overall these changes show x and y changes in my thinking.
 
-Read [Wax Cylinder Recording](blog)
+Read [Wax Cylinder Phonograph](blog)
 
 
 Overall, these changes show x and y changes in my thinking.

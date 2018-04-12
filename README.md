@@ -26,7 +26,9 @@ This collaborative presentation was a task that revolved me and my peers to work
 
 As a group, we had a lot of ideas flowing. Each of us took different roles, and I was in change of theoretical discussion, with my peer, Brian. My peer Evan was in charge of the basic initial information, and our other member Dylan, was in charge of the research findings. Brian and I were focusing on talking about other DH researchers and we were talking about how these tools would benefit said researchers. Overall, as a group, we had a lot of ideas going back and forth. It’s great to work as a group in this field especially, as there are a lot of analytical discussions I can find myself into regarding technology. In this group collaboration specifically, I learned things from my peers Dylan, Evan and Brian. Everyone has something to offer in the group and I feel it was compiled nicely into one collaborative piece. With that being said, since I’ve been engaged in this environment with a group, I’ve been able to enforce my research skills, and find information more effectively, as shown on the solo research presentation. 
 
-Here are 3 piece of commits that I have been apart of. *Brian submit the commits, I worked on material and sent it to him*
+Here are 3 piece of commits that I have been apart of. 
+
+*Brian submit the commits, I worked on material and sent it to him*
 
 (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/ec1b9cb5f74ec8272749826f964ae5adfe146bb1#diff-263c9d16322b91363cd286714e70dc9f)).
 

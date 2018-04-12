@@ -52,7 +52,7 @@ I also contributed x assets to my team, seen below.
 Throughout the years, the field of humanities in post education has been evergrowing, and with recent technological advancements, we’ve been able to delve into a whole new front of DH... [Continue reading](blog)
 
 
-## Solo Presentation
+## Research Presentation
 [Click Here](https://alexvillada.github.io/IASC-2P02/reveal/index.html)
 
 
